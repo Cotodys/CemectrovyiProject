@@ -8,5 +8,14 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Project/Scenes/GameScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/_Project/Scenes/MenuScene.unity
+    guid: ff8ff710a4ed2034eb1545bb3f36d6fc
+  - enabled: 1
+    path: Assets/_Project/Scenes/LoadingScene.unity
+    guid: cf160be62d11ddd45a41955d77b91d6d
+  - enabled: 1
+    path: Assets/_Project/Scenes/MenuLevelsScene.unity
+    guid: cedac55ffe92f6e478452172c8531278
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
