@@ -7,7 +7,7 @@ public class SceneManager_ : MonoBehaviour
 
     public void SwitchScene(string targetScene)
     {
-        targetScene = SceneToLoad;
+        SceneToLoad = targetScene;
         SceneManager.LoadScene("LoadingScene");
     }
     
